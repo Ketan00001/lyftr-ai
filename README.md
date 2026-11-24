@@ -4,7 +4,6 @@
 - Frontend: add deployed frontend URL
 - Backend: add deployed backend URL
 - Health: `<backend-url>/health`
-
 ## 2. Run locally: with Docker and without
 
 ### Docker
