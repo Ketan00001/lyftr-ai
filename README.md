@@ -1,8 +1,8 @@
 # Lyftr AI — LLM Chatbot with Key Failover and Response Caching
 
 ## 1. Live URLs
-- Frontend: add deployed frontend URL
-- Backend: add deployed backend URL
+- Frontend: https://lyftr-ai.netlify.app
+- Backend: https://lyftr-ai-sfcf.onrender.com
 - Health: `<backend-url>/health`
 ## 2. Run locally: with Docker and without
 
